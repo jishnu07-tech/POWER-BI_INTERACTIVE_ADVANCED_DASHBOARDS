@@ -24,3 +24,6 @@ Sales trends over time.
 Region-wise and product-wise performance.
 Profitability analysis.
 Customer purchase patterns.
+
+![image alt](https://github.com/jishnu07-tech/POWER-BI_INTERACTIVE_ADVANCED_DASHBOARDS/blob/00954a033f6bd981e0583e8b3fd214ab329360e3/Sales%20Report.png)
+
